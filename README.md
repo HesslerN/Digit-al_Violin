@@ -27,7 +27,9 @@ As far as the circuit logic goes, the Arduino gives 5V to each hand's thumb, and
 
 I recorded myself playing "The Kitchen Criminal" by Normal Mackay and Ruairidh Macmillan on the digit-al violin. This is one of my favorite fiddle tunes that I learned when I studied abroad in Scotland. I added piano and percussion tracks for harmonic and rhythmic context.
 
-<iframe src="https://drive.google.com/file/d/1Y-dVDtQO0wPMeMUaNlq0SF867UaiCSOH/preview" width="640" height="480"></iframe>
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1Y-dVDtQO0wPMeMUaNlq0SF867UaiCSOH/preview" frameborder="0" allowfullscreen="true"></iframe>
+</figure>
 
 ## Journey
 

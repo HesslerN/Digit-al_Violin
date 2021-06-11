@@ -21,12 +21,11 @@ The left hand can modify the sound by adding fingers on the string. The musician
 The instrument produces sound via a Max patch on a laptop. The laptop receives the inputs from the musician via a serial connection to an Arduino, which is hooked up with wires to the gloves. Every fingertip of the gloves has a paper fastener on it, which is soldered to the wires to the Arduino.
 
 As far as the circuit logic goes, the Arduino gives 5V to each hand's thumb, and then listens for digital input on each finger. When a finger is touching the thumb, it will report a high voltage to the Arduino, but if not, it only reads from ground to produce a low voltage. The circuit diagram is similar to the switch diagram shown here, but each hand would have three more fingers with resistors normally connecting to ground, and then the whole diagram is duplicated for the second hand.
+![Schematic of one finger's circuit](https://github.com/HesslerN/Digit-al_Violin/blob/main/schematic.png?raw=true)
 
 ## Demo
 
 I recorded myself playing "The Kitchen Criminal" by Normal Mackay and Ruairidh Macmillan on the digit-al violin. This is one of my favorite fiddle tunes that I learned when I studied abroad in Scotland. I added piano and percussion tracks for harmonic and rhythmic context.
-
-https://drive.google.com/file/d/1Y-dVDtQO0wPMeMUaNlq0SF867UaiCSOH/view?usp=sharing
 
 ## Journey
 
